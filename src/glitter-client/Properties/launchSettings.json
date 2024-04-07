@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gitTingClient": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir C:\\files\\code\\git\\Betty"
+    }
+  }
+}
